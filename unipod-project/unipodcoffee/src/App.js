@@ -1,5 +1,7 @@
 import React from 'react';
 import QRForm from './QRForm';
+import './QRForm.css';
+
 
 function App() {
   return (
